@@ -1,8 +1,8 @@
 ---
-title: Mon mini-site Framalibre
+title: "Mon mini-site Framalibre"
 order: 0
+in_menu: true
 ---
-
 J'écris ici un texte de présentation de mon mini-site Framalibre et je peux
 lister les logiciels libres que je recommande.
 
@@ -18,5 +18,4 @@ lister les logiciels libres que je recommande.
       <a href="https://joinpeertube.org/fr/">Vers le site</a>
     </div>
   </div>
-</article>
-
+</article> 
